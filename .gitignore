@@ -1,0 +1,8 @@
+.settings
+Drivers
+.cproject
+.mxproject
+.project
+EfficientUartCommunication.ioc
+STM32F429ZITX_FLASH.ld
+STM32F429ZITX_RAM.ld
